@@ -1,20 +1,20 @@
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-# NextGen AI Solutions
+# Run and deploy your AI Studio app
 
-A modern AI business website created using Google AI Studio.
+This contains everything you need to run your app locally.
 
-## Features
-- Responsive design
-- Home, About, Services, Contact
-- Smooth animations
-- Modern UI
-- Mobile friendly
+View your app in AI Studio: https://ai.studio/apps/eaf91239-df06-4557-8983-cd5e7594a097
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Google AI Studio (AI-assisted development)
+## Run Locally
 
-## Live Demo
-https://nextgen-ai-solutions.ai.studio
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

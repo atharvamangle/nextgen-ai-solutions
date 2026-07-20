@@ -1,0 +1,6 @@
+{
+  "name": "NextGen AI Solutions",
+  "description": "Premium, futuristic and professional website for NextGen AI Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
